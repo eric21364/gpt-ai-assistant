@@ -1,6 +1,19 @@
 # Changelog
 
-## 4.4.0 (2023-03-10)
+## 4.4.3 (2023-03-11)
+
+- Fix wording of `doc` and `report` commands
+
+### Bug Fixes
+
+## 4.4.2 (2023-03-11)
+
+### Bug Fixes
+
+- Add `ERROR_MESSAGE_DISABLED` environment variable
+- Deprecate `ERROR_TIMEOUT_DISABLED` environment variable
+
+## 4.4.1 (2023-03-10)
 
 ### Bug Fixes
 
